@@ -1,0 +1,15 @@
+C:\Users\rodri\Documents\DotNetComAngular\ControleFinanceiro\ControleFinanceiro.BLL\bin\Debug\net5.0\ControleFinanceiro.BLL.deps.json
+C:\Users\rodri\Documents\DotNetComAngular\ControleFinanceiro\ControleFinanceiro.BLL\bin\Debug\net5.0\ControleFinanceiro.BLL.runtimeconfig.json
+C:\Users\rodri\Documents\DotNetComAngular\ControleFinanceiro\ControleFinanceiro.BLL\bin\Debug\net5.0\ControleFinanceiro.BLL.runtimeconfig.dev.json
+C:\Users\rodri\Documents\DotNetComAngular\ControleFinanceiro\ControleFinanceiro.BLL\bin\Debug\net5.0\ControleFinanceiro.BLL.dll
+C:\Users\rodri\Documents\DotNetComAngular\ControleFinanceiro\ControleFinanceiro.BLL\bin\Debug\net5.0\ControleFinanceiro.BLL.pdb
+C:\Users\rodri\Documents\DotNetComAngular\ControleFinanceiro\ControleFinanceiro.BLL\obj\Debug\net5.0\ControleFinanceiro.BLL.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\DotNetComAngular\ControleFinanceiro\ControleFinanceiro.BLL\obj\Debug\net5.0\ControleFinanceiro.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\DotNetComAngular\ControleFinanceiro\ControleFinanceiro.BLL\obj\Debug\net5.0\ControleFinanceiro.BLL.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\DotNetComAngular\ControleFinanceiro\ControleFinanceiro.BLL\obj\Debug\net5.0\ControleFinanceiro.BLL.AssemblyInfo.cs
+C:\Users\rodri\Documents\DotNetComAngular\ControleFinanceiro\ControleFinanceiro.BLL\obj\Debug\net5.0\ControleFinanceiro.BLL.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\DotNetComAngular\ControleFinanceiro\ControleFinanceiro.BLL\obj\Debug\net5.0\ControleFinanceiro.BLL.dll
+C:\Users\rodri\Documents\DotNetComAngular\ControleFinanceiro\ControleFinanceiro.BLL\obj\Debug\net5.0\refint\ControleFinanceiro.BLL.dll
+C:\Users\rodri\Documents\DotNetComAngular\ControleFinanceiro\ControleFinanceiro.BLL\obj\Debug\net5.0\ControleFinanceiro.BLL.pdb
+C:\Users\rodri\Documents\DotNetComAngular\ControleFinanceiro\ControleFinanceiro.BLL\obj\Debug\net5.0\ControleFinanceiro.BLL.genruntimeconfig.cache
+C:\Users\rodri\Documents\DotNetComAngular\ControleFinanceiro\ControleFinanceiro.BLL\obj\Debug\net5.0\ref\ControleFinanceiro.BLL.dll
